@@ -4,7 +4,7 @@
 ## 🚀 About
 A passionate frontend developer from Brasil
 
-- 🔭 I’m currently working on [Bunker](https://github.com/ferfagner/bunker)
+- 🔭 I’m currently working on [Dashboard](https://github.com/ferfagner/dashboardvp)
 
 - 🌱 I’m currently learning **React on Rocketseat**
 
